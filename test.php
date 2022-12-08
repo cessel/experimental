@@ -1,3 +1,2 @@
 <?php
-phpinfo();
-echo 'CommiT!!!';
+echo 'Master branch changes!';
