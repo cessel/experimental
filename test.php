@@ -1,2 +1,2 @@
 <?php
-echo 'Master branch changes!';
+echo 'Master branch changes! Rebase test';
